@@ -1,7 +1,7 @@
 # Solution_Provider 🍀
 
 - **Supported Tools** - `pip`
-- **Supported Python Version** - `Python 3.7, 3.8 pip`
+- **Supported Python Version** - `Python 3.7, 3.8`
 
 ## **Important steps to be noted:**
 
